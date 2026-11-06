@@ -123,4 +123,3 @@ scholaris/
 - **AI exams are transient by design** — verify `ai_exams` never appears in your database.
 - The branded player hides all YouTube chrome; Google's embed ToS still applies to the stream
   itself (see SAD ADR-011 for the trade-off discussion).
-# e-learning
